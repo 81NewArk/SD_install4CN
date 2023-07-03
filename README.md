@@ -13,7 +13,7 @@
 ## 2.查看Nvidia的驱动和CUDA命令
 
 ```
-**Windows：nvidia-smi**
+nvidia-smi
 ```
 
 ![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/Untitled%201.png)
