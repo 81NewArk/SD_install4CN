@@ -1,5 +1,7 @@
 # SD_install4CN
 
+下载地址：https://www.123pan.com/s/ElPzVv-n2F43.html
+
 
 # 一 ：软件和环境
 
