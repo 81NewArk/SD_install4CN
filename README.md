@@ -34,6 +34,7 @@ N卡用户参考表：
 # 三 ：模型和插件下载
 
 模型下载：https://www.123pan.com/s/ElPzVv-P2F43.html
+
 插件下载：https://www.123pan.com/s/ElPzVv-X2F43.html
 
 
