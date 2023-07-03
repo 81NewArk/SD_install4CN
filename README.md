@@ -33,6 +33,6 @@ Stable Diffusion是一个AI 绘图软件 （开源模型），可本地部署，
 
 # 在线要饭
 
-![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/images/WeChat.png)![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/images/ZFB.png)
+![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/images/WeChat.png)     ![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/images/ZFB.png)
 
 
