@@ -1,56 +1,30 @@
 # SD_install4CN
+## 1.引言
+**Stable Diffusion是一个AI 绘图软件 （开源模型），可本地部署，可切换多种模型，最重要的是免费，没有绘图次数限制。对比Midjourney主打一个分逼不花。
+部署时，踩坑主要受国内网络速度和环境配置影响导致部署失败而放弃。闲暇时光编写了这个项目，对比其他动辄几十个G的启动器，SD_install4CN方便快捷，操作简单，并长期更新。**
 
-下载地址：https://www.123pan.com/s/ElPzVv-n2F43.html
+## 2.程序界面
+**当前版本：属于丐版，仅保证安装和配置Stable Diffusion**
 
+**等待更新：国内高速下载插件和模型**
 
-# 一 ：软件和环境
-
-|  |                                             下载地址 |                说明 |
-| --- | --- | --- |
-| Python | https://registry.npmmirror.com/binary.html?path=python/3.10.6/ | 根据系统下载对应版本 |
-| Git | https://registry.npmmirror.com/binary.html?path=git-for-windows/ | 根据系统下载对应版本 |
-| Nvidia Driver | https://www.nvidia.cn/geforce/drivers/ | 根据显卡安装驱动 |
-| CUDA | https://developer.nvidia.com/cuda-toolkit-archive | 根据驱动安装CUDA |
-
-## 1.安装Python时添加系统环境变量
-![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/Untitled.png)
-
-## 2.查看Nvidia的驱动和CUDA命令
-
-```
-nvidia-smi
-```
-
-![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/Untitled%201.png)
-
-# 二 ：硬件需求
-
-N卡用户参考表：
-
-|  | 最小配置 | 推荐配置 |
-| --- | --- | --- |
-| CPU | Intel Core i5-8300H 或同等级别 | Intel Core i7-10875H 或同等级别 |
-| 内存 | 8GB | 16GB |
-| 显卡 | Nvidia GeForce GTX 1050 或同等级别 | Nvidia GeForce GTX 1660 Ti 或同等级别 |
-| 存储 | 256GB SSD | 512GB以上 SSD  |
+![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/images/SD_install4CN_1.jpg)
 
 
+![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/images/SD_install4CN_2.png)
 
-# 三 ：模型和插件下载
+## 3.Stable Diffuson运行要求说明
+**1. 需要手动下载安装Python和Git，并添加系统环境。【必须】**
+**2. 100G以上的SDD固态硬盘【最少10G，给模型和插件预留空间】**
+**3. SD对N卡十分友好，出图快效率高，推荐GPU 在20系以上+8G显存【N卡必须安装对应显卡的驱动和CUDA】**
+**4. 内存最低要求是8G DDR4【个人推荐16G+】**
+**5. 非N卡用户在SD_Install4CN中选择N卡选项后即可【AMD，YES！】**
+**6. 操作系统：Windows 10 or 11**
+
+# 4.模型和插件下载
 
 模型下载：https://www.123pan.com/s/ElPzVv-P2F43.html
 
 插件下载：https://www.123pan.com/s/ElPzVv-X2F43.html
 
-
-# 四 ：部署
-
-
-运行webui-user.bat文件，出现127.0.0.1:???? 复制到浏览器打开
-![](https://github.com/81NewArk/SD_install4CN/blob/main/Untitled%202.png?raw=true)
-![](https://github.com/81NewArk/SD_install4CN/blob/main/Untitled%203.png?raw=true)
-
-# 五 ：后续更新
-
-
-当前版本丐版，仅限于安装SD，下个版本更新在线安装插件模型等功能
+SD_install4CN 下载：
