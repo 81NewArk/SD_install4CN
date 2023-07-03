@@ -1,4 +1,3 @@
-# SD_install4CN
 # 一 ：软件和环境
 
 |  |                                             下载地址 |                说明 |
@@ -9,8 +8,7 @@
 | CUDA | https://developer.nvidia.com/cuda-toolkit-archive | 根据驱动安装CUDA |
 
 ## 1.安装Python时添加系统环境变量
-
-![Untitled]([Stable%20Diffusion%200660e2dd2c8a4e17be30aa3bca185146/Untitled.png](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/Untitled%201.png))
+![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/Untitled.png)
 
 ## 2.查看Nvidia的驱动和CUDA命令
 
@@ -18,7 +16,7 @@
 **Windows：nvidia-smi**
 ```
 
-![Untitled](Stable%20Diffusion%200660e2dd2c8a4e17be30aa3bca185146/Untitled%201.png)
+![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/Untitled%201.png)
 
 # 二 ：硬件需求
 
@@ -43,7 +41,5 @@ N卡用户参考表：
 
 
 运行webui-user.bat文件，出现127.0.0.1:???? 复制到浏览器打开
-
-![Untitled](Stable%20Diffusion%200660e2dd2c8a4e17be30aa3bca185146/Untitled%202.png)
-
-![Untitled](Stable%20Diffusion%200660e2dd2c8a4e17be30aa3bca185146/Untitled%203.png)
+![](https://github.com/81NewArk/SD_install4CN/blob/main/Untitled%202.png?raw=true)
+![](https://github.com/81NewArk/SD_install4CN/blob/main/Untitled%203.png?raw=true)
