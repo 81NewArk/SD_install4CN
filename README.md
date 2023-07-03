@@ -47,3 +47,8 @@ N卡用户参考表：
 运行webui-user.bat文件，出现127.0.0.1:???? 复制到浏览器打开
 ![](https://github.com/81NewArk/SD_install4CN/blob/main/Untitled%202.png?raw=true)
 ![](https://github.com/81NewArk/SD_install4CN/blob/main/Untitled%203.png?raw=true)
+
+# 五 ：后续更新
+
+
+当前版本丐版，仅限于安装，下个版本更新在线安装插件模型等功能
