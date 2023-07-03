@@ -29,4 +29,10 @@ Stable Diffusion是一个AI 绘图软件 （开源模型），可本地部署，
 
 插件下载：https://www.123pan.com/s/ElPzVv-X2F43.html
 
+# 5.在线要饭
+
+![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/images/WeChat.png)
+
+![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/images/ZFB.png)
+
 ## [额外扩展](https://github.com/81NewArk/SD_install4CN/blob/main/environment.md "额外扩展")
