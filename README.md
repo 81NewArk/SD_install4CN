@@ -10,7 +10,7 @@
 
 ## 1.安装Python时添加系统环境变量
 
-![Untitled](Stable%20Diffusion%200660e2dd2c8a4e17be30aa3bca185146/Untitled.png)
+![Untitled]([Stable%20Diffusion%200660e2dd2c8a4e17be30aa3bca185146/Untitled.png](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/Untitled%201.png))
 
 ## 2.查看Nvidia的驱动和CUDA命令
 
