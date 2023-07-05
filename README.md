@@ -10,10 +10,9 @@ Stable Diffusion是一个AI 绘图软件 （开源模型），可本地部署，
 
 **等待更新：国内高速下载插件和模型**
 
-![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/images/SD_install4CN_1.jpg)
+![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/images/SD_install4CN_Main.png)
 
 
-![](https://raw.githubusercontent.com/81NewArk/SD_install4CN/main/images/SD_install4CN_2.png)
 
 ## 3.Stable Diffuson运行要求说明
 1. 需要手动下载安装Python和Git，并添加系统环境。【必须】
