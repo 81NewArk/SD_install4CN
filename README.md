@@ -5,7 +5,9 @@ Stable Diffusion是一个AI 绘图软件 （开源模型），可本地部署，
 
 **整合包下载地址：https://www.123pan.com/s/ElPzVv-cCF43.html**
 
-**SD_install4CN v1.0.2单独下载：https://www.123pan.com/s/ElPzVv-ZCF43.html6**
+**请手动更新整合包内的SD_install4CN**
+
+**SD_install4CN v1.0.3单独下载：https://www.123pan.com/s/ElPzVv-1NF43.html**
 
 ## 2.程序界面
 **当前版本：属于丐版，仅保证安装和配置Stable Diffusion**
